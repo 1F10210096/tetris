@@ -115,3 +115,24 @@
   height: 1em;
   margin-left: 0.5rem;
 }
+
+.board {
+  background: rgb(200 195 195);
+  height: 600px;
+  width: 360px;
+}
+
+.cell {
+  height: 30px;
+  width: 30px;
+  background:#a9aaac;
+  border: solid 1px;
+  float: left;
+}
+
+.stone {
+  background: white;
+  width: 30px;
+  height: 30px;
+
+}
